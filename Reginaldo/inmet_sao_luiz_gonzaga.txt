@@ -1,4 +1,4 @@
-codigo_da_estacao,data,hora_,temp_ins,temp_max,temp_min,umi_ins,umi_max,umi_min,pto_orvalho_ins,pto_orvalho_max,pto_orvalho_min,pressao_ins,pressao_max,pressao_min,vel_vento,dir_vento,raj_vento,radiacao,precipitacao
+codigo_da_estacao,data,hora,temp_ins,temp_max,temp_min,umi_ins,umi_max,umi_min,pto_orvalho_ins,pto_orvalho_max,pto_orvalho_min,pressao_ins,pressao_max,pressao_min,vel_vento,dir_vento,raj_vento,radiacao,precipitacao
 SAO_LUIZ_GONZAGA_(A852),01/01/2020,1,28.2,28.6,28.2,70,70,68,22.2,22.3,22.1,979.2,979.2,978.6,1.6,306,3,,0
 SAO_LUIZ_GONZAGA_(A852),01/01/2020,2,27.7,28.2,27.6,73,73,70,22.4,22.4,22.2,979.3,979.3,979.2,1.9,307,3.6,,0
 SAO_LUIZ_GONZAGA_(A852),01/01/2020,3,27.4,27.7,27.4,74,75,73,22.4,22.6,22.4,979.1,979.3,979.1,2.3,313,4.1,,0
